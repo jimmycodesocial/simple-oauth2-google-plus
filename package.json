@@ -1,0 +1,40 @@
+{
+  "name": "simple-oauth2-google-plus",
+  "version": "0.5.0",
+  "description": "A simple Node.js client library for Google+ OAuth2",
+  "keywords": [
+    "oauth2",
+    "oauth2-client",
+    "google-plus",
+    "google-plus-login",
+    "google-plus-api",
+    "google-plus-auth",
+    "google-auth2",
+    "google-api",
+    "simple-oauth2"
+  ],
+  "author": "JimmyCode Social <hi@jimmycode.com>",
+  "contributors": [
+    {
+      "name": "Alberto Menendez Romero",
+      "url": "https://www.linkedin.com/in/albertomr86/"
+    }
+  ],
+  "homepage": "https://github.com/jimmycodesocial/simple-oauth2-google-plus",
+  "bugs": {
+    "url": "https://github.com/jimmycodesocial/simple-oauth2-google-plus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmycodesocial/simple-oauth2-google-plus.git"
+  },
+  "engine": {
+    "node": ">=8.0"
+  },
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "simple-oauth2": "^2.2.0"
+  }
+}
